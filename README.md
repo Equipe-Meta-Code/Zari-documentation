@@ -39,3 +39,5 @@
 
 ![Backlog](https://github.com/mluizaguedes/Projeto-de-API-2-Semestre/assets/126245947/874a86d7-f142-4281-91e8-8b1bde6a1f58)
 
+## 📊 User Stories
+![Sprint 1 Sprint 1](https://github.com/Equipe-Meta-Code/Zari-documentation/assets/126245947/052c1024-dc6d-4d31-be98-0dba46e88a30)
