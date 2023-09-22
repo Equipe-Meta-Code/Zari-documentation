@@ -34,12 +34,4 @@
 - ![GITHUB](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
   
 
-  ## 📊 Sprints e Backlog
-<img src="https://github.com/mluizaguedes/Projeto-de-API-2-Semestre/assets/126245947/7964fd9d-3024-4712-880f-6c3dbbe97699" width="638">
 
-![Backlog](https://github.com/mluizaguedes/Projeto-de-API-2-Semestre/assets/126245947/874a86d7-f142-4281-91e8-8b1bde6a1f58)
-
-## 📊 User Stories
-![Sprint 1 Sprint 1](https://github.com/Equipe-Meta-Code/Zari-documentation/assets/126245947/052c1024-dc6d-4d31-be98-0dba46e88a30)
-
-## 📋 MVP
