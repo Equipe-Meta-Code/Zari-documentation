@@ -22,8 +22,6 @@
 - ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 - ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
-  
-- ![MYSQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
 - ![FIGMA](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
@@ -41,3 +39,5 @@
 
 ## 📊 User Stories
 ![Sprint 1 Sprint 1](https://github.com/Equipe-Meta-Code/Zari-documentation/assets/126245947/052c1024-dc6d-4d31-be98-0dba46e88a30)
+
+## 📋 MVP
