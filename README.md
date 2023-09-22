@@ -39,3 +39,5 @@
 
 ## 📊 User Stories
 ![Sprint 1 Sprint 1](https://github.com/Equipe-Meta-Code/Zari-documentation/assets/126245947/052c1024-dc6d-4d31-be98-0dba46e88a30)
+
+## 📋 MVP
