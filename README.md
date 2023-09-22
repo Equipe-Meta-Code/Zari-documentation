@@ -62,6 +62,7 @@
 <span id="MVP">
  
 ## 📋 MVP
+![MVP Zari](https://github.com/Equipe-Meta-Code/Zari-documentation/assets/127700485/b32588ea-9a4d-4e2e-bf71-98a56a561806)
 
 <p align="right">
   <a href="#topo">
