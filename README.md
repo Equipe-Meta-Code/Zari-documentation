@@ -64,8 +64,20 @@
 ## 📋 MVP
 ![MVP Zari](https://github.com/Equipe-Meta-Code/Zari-documentation/assets/127700485/b32588ea-9a4d-4e2e-bf71-98a56a561806)
 
-## 🖥️ Link do protótipo (Figma)
+## 🖥️ Protótipo (Figma)
+Link:
   https://www.figma.com/file/lLiPFSscewcgGwgdclWeFQ/Untitled?type=design&node-id=0-1&mode=design
+  
+<details>
+   <summary>Vídeo</summary>
+    <div align="center">
+        
+https://github.com/Equipe-Meta-Code/Zari-documentation/assets/126246097/48e26ac5-0f87-4a3a-9e11-1a7a62081997
+
+    </div>
+</details>
+
+
 
 <p align="right">
   <a href="#topo">
@@ -74,6 +86,9 @@
 </p>
 
   
+
+
+
 
 
 
