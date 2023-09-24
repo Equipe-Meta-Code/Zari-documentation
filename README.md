@@ -64,11 +64,16 @@
 ## 📋 MVP
 ![MVP Zari](https://github.com/Equipe-Meta-Code/Zari-documentation/assets/127700485/b32588ea-9a4d-4e2e-bf71-98a56a561806)
 
+## 🖥️ Link do protótipo (Figma)
+  https://www.figma.com/file/lLiPFSscewcgGwgdclWeFQ/Untitled?type=design&node-id=0-1&mode=design
+
 <p align="right">
   <a href="#topo">
     <img src="https://user-images.githubusercontent.com/123789443/270016279-157e5646-66d0-4178-9073-5faf685620ba.png" alt="Seta para cima" width="40">
   </a>
 </p>
+
+  
 
 
 
