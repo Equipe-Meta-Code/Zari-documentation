@@ -77,6 +77,8 @@ https://github.com/Equipe-Meta-Code/Zari-documentation/assets/126246097/48e26ac5
     </div>
 </details>
 
+## 📽️ Vídeo de Apresentação da Sprint 1
+<a href="[https://www.youtube.com/@PythonparaZumbis](https://www.youtube.com/watch?v=2UyOV2ewxvM)" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> 
 
 
 <p align="right">
