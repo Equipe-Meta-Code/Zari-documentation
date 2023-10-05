@@ -4,3 +4,7 @@
 [submodule "Zari-front-end"]
 	path = Zari-front-end
 	url = https://github.com/Equipe-Meta-Code/Zari-front-end
+[submodule "Zari-database"]
+	path = Zari-database
+	url = https://github.com/Equipe-Meta-Code/Zari-database
+
