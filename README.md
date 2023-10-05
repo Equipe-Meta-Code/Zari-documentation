@@ -59,7 +59,8 @@
 <span id="user">
 
 ## 📊 User Stories
-![Sprint 1 Sprint 1](https://github.com/Equipe-Meta-Code/Zari-documentation/assets/126245947/052c1024-dc6d-4d31-be98-0dba46e88a30)
+![user stories](https://github.com/Equipe-Meta-Code/Zari-documentation/assets/126245947/d1f7047f-c34d-4308-8868-71eb43fae500)
+
 
 <span id="MVP">
  
