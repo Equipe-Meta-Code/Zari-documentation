@@ -22,13 +22,13 @@
 
 •	O sistema deverá ler os arquivos que forem carregados, analisar as informações e responder perguntas sobre o documento.
 
-•	Banco de dados.
-
 
 ## 📍 Requisitos não-funcionais
 •	Documentação via GitHub.
 
 •	Protótipo criado no Figma.
+
+•	Banco de dados.
 
 <span id="tecnologias">
 
