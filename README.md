@@ -70,7 +70,14 @@
 
 ## 📽️ Vídeo de Apresentação da Sprint 2
 
+<details>
+   <summary>Vídeo</summary>
+    <div align="center">
+        
+https://github.com/Equipe-Meta-Code/Zari-documentation/assets/126246097/f7873238-edb7-47d1-a308-390266382b46
 
+    </div>
+</details>
 
 <p align="right">
   <a href="#topo">
