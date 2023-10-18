@@ -1,4 +1,4 @@
-<h1 align="center"> Projeto API - 2º Semestre </h1>
+<h1 align="center"> Projeto API - 2º Semestre (Sprint 3)</h1>
 
 ## 🎯 Objetivo
  Desenvolver um modelo de chatbot (assistente virtual) que analise documentos e responda perguntas sobre eles.
