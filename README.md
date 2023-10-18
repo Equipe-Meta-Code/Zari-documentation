@@ -1,5 +1,5 @@
 <span id="topo">
-<h1 align="center"> Projeto API - 2º Semestre </h1>
+<h1 align="center"> Projeto API - 2º Semestre (Sprint 2)</h1>
 
 <p align="center">
     <a href="#objetivo">Objetivo</a>  |  
