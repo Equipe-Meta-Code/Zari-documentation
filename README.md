@@ -35,6 +35,37 @@
 - ![Microsoft](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 
 - ![GITHUB](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+
+<span id="sprints">
+
+  ## 📊 Sprints e Backlog
+<img src="https://github.com/Equipe-Meta-Code/Zari-documentation/assets/126245947/0016ecb9-bcb3-47b3-9425-197a62cfbe48" width="638">
+
+![backlog produto](https://github.com/Equipe-Meta-Code/Zari-documentation/assets/126245947/65e26f5b-b9b3-4f27-a0f9-d87470cabfa1)
+
+
+  <span id="user">
+
+## 📊 User Stories
+![user stories](https://github.com/Equipe-Meta-Code/Zari-documentation/assets/126245947/d1f7047f-c34d-4308-8868-71eb43fae500)
+
+
+<span id="MVP">
+ 
+## 📋 MVP
+![MVP Zari](https://github.com/Equipe-Meta-Code/Zari-documentation/assets/127700485/b32588ea-9a4d-4e2e-bf71-98a56a561806)
+
+
+## 📽️ Vídeo de Apresentação da Sprint 3
+
+
+
+<p align="right">
+  <a href="#topo">
+    <img src="https://user-images.githubusercontent.com/123789443/270016279-157e5646-66d0-4178-9073-5faf685620ba.png" alt="Seta para cima" width="40">
+  </a>
+</p>
+
   
 
 
