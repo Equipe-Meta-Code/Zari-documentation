@@ -36,8 +36,45 @@
 
 - ![GITHUB](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
+
+<span id="sprints">
+
+## 📊 Sprints e Backlog
+<img src="https://github.com/Equipe-Meta-Code/Zari-documentation/assets/126245947/119cb85f-e66e-4666-a3fb-c231c526f364" width="638">
+
+![baklog](https://github.com/Equipe-Meta-Code/Zari-documentation/assets/126245947/7931ed13-9b9a-41fe-9b35-069ed4d94d7a)
+
+
+<span id="user">
+
+## 📊 User Stories
+![user stories](https://github.com/Equipe-Meta-Code/Zari-documentation/assets/126245947/d1f7047f-c34d-4308-8868-71eb43fae500)
+
+
+<span id="MVP">
+ 
+## 📋 MVP
+![MVP Zari](https://github.com/Equipe-Meta-Code/Zari-documentation/assets/127700485/b32588ea-9a4d-4e2e-bf71-98a56a561806)
+
+
+<span id="Diagrama de classes">
+ 
 ## 📁 Diagrama de classes (UML)
   ![Diagrama de classes (UML)](https://github.com/Equipe-Meta-Code/Zari-documentation/assets/126245983/82e3ca28-ef30-4018-934b-5d059c4863bf)
 
 
+<span id="Vídeo">
+ 
+## 📽️ Vídeo
+<details>
+   <summary>Vídeo</summary>
+
+</details>
+
+
+<p align="right">
+  <a href="#topo">
+    <img src="https://user-images.githubusercontent.com/123789443/270016279-157e5646-66d0-4178-9073-5faf685620ba.png" alt="Seta para cima" width="40">
+  </a>
+</p>
 
