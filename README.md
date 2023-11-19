@@ -35,6 +35,9 @@
 - ![Microsoft](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 
 - ![GITHUB](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-  
+
+## 📁 Diagrama de classes (UML)
+  ![Diagrama de classes (UML)](https://github.com/Equipe-Meta-Code/Zari-documentation/assets/126245983/82e3ca28-ef30-4018-934b-5d059c4863bf)
+
 
 
