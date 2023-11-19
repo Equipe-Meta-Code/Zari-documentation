@@ -50,9 +50,10 @@
 <span id="sprints">
 
   ## 📊 Sprints e Backlog
-<img src="https://github.com/Equipe-Meta-Code/Zari-documentation/assets/126245947/4d4ee1b5-5b56-4384-98ca-f97e73f2001d" width="638">
+<img src="https://github.com/Equipe-Meta-Code/Zari-documentation/assets/126245947/70197a69-3e34-40ad-8bab-48573dc8f5e3" width="638">
 
-![backlog produto](https://github.com/Equipe-Meta-Code/Zari-documentation/assets/126245947/65e26f5b-b9b3-4f27-a0f9-d87470cabfa1)
+![baklog](https://github.com/Equipe-Meta-Code/Zari-documentation/assets/126245947/5bde29cd-9364-4e15-8e74-dce6b8c2fe35)
+
 
 <span id="user">
 
