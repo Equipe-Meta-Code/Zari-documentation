@@ -65,11 +65,20 @@
 
 <span id="Vídeo">
  
-## 📽️ Vídeo
+## 📽️ Vídeo final
 <details>
    <summary>Vídeo</summary>
+    <div align="center">
+        
 
+
+https://github.com/Equipe-Meta-Code/Zari-documentation/assets/126246097/b3e0ac54-4592-4f58-a9a8-229d44c07ff5
+
+
+
+    </div>
 </details>
+
 
 
 <p align="right">
