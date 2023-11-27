@@ -72,7 +72,11 @@
         
 
 
-https://github.com/Equipe-Meta-Code/Zari-documentation/assets/126246097/b3e0ac54-4592-4f58-a9a8-229d44c07ff5
+
+https://github.com/Equipe-Meta-Code/Zari-documentation/assets/126246097/f4f6e0a2-7787-4672-9cc6-0d4eb06db290
+
+
+
 
 
 
