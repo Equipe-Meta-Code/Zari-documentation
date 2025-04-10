@@ -1,5 +1,7 @@
 <h1 align="center"> Projeto API - 2º Semestre </h1>
 
+Link para o repositório com código: https://github.com/Equipe-Meta-Code/Zari-code
+
 ## 🎯 Objetivo
  Desenvolver um modelo de chatbot (assistente virtual) que analise documentos e responda perguntas sobre eles.
 
